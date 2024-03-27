@@ -1,6 +1,7 @@
 {
   "name": "socialmedia",
   "private": true,
+  "homepage": "https://pal2912.github.io/Postgram/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
