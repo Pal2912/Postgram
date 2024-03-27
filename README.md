@@ -1,8 +1,37 @@
-# React + Vite
+# Postgram
+**Postgram**
+Postgram is a web application built with React.js, HTML, CSS, and JavaScript. It allows users to create and upload posts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Features**
+Create and upload posts
+Simple and intuitive user interface
+Responsive design for seamless usage on various devices
 
-Currently, two official plugins are available:
+**Technologies Used**
+React.js
+HTML
+CSS
+JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Getting Started**
+To get a local copy of the project up and running, follow these steps:
+
+1.Clone the repository:
+git clone https://github.com/your-username/post-creator.git
+
+2.Navigate into the project directory:
+cd post-creator
+
+3.Install dependencies:
+npm install
+
+4.Start the development server:
+npm start
+Open your browser and visit http://localhost:3000 to view the application
+
+**Usage**
+Launch the application.
+Click on the "Create Post" button to start creating a new post.
+Fill in the details for your post, such as title, content, etc.
+Upload any relevant media files if necessary.
+Click on the "Submit" button to upload your post.
