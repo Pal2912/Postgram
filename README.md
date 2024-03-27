@@ -35,3 +35,5 @@ Click on the "Create Post" button to start creating a new post.
 Fill in the details for your post, such as title, content, etc.
 Upload any relevant media files if necessary.
 Click on the "Submit" button to upload your post.
+
+**Click here**
