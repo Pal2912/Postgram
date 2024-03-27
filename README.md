@@ -17,7 +17,7 @@ JavaScript
 To get a local copy of the project up and running, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/your-username/post-creator.git
+https://github.com/Pal2912/Postgram.git
 
 2.Navigate into the project directory:
 cd post-creator
